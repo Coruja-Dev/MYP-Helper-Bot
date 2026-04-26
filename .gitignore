@@ -150,3 +150,10 @@ cookies.json
 offers-progress.json
 codes-progress.json
 page.txt
+
+# Dev/debug files
+debug-page-*.html
+general.txt
+html.txt
+test.js
+debug.js
